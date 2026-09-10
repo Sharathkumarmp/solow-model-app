@@ -6,8 +6,7 @@ depreciation rate (δ), and capital's output elasticity (α) with live sliders, 
 capital per worker, output per worker, total output, and living standards converge to
 (or diverge from) the steady state in real time.
 
-Built for Module III (Theories of Economic Growth), 22ECU517A — Economics of
-Development and Planning.
+Built for Understanding Theories of Economic Growth
 
 ## Features
 
@@ -57,5 +56,5 @@ k* = [s / (n + g + δ)]^(1 / (1 − α))
 ## Author
 
 Sharath Kumar M P
-Assistant Professor, Department of Economics (SF)
+Assistant Professor and Head i/c, Department of Economics (SF)
 PSG College of Arts and Science, Coimbatore
